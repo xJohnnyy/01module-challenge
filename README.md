@@ -6,7 +6,8 @@ In this module challenge, we reviewed the webpage for the company Horiseon. Upon
 
 
 ## Usage
-N/A
+[Image of finished website](assets/images/01-html-css-git-homework-demo.png)
+
 
 ## Credits
 N/A
