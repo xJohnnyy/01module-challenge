@@ -9,12 +9,15 @@ In this module challenge, we reviewed the webpage for the company Horiseon. Upon
 Below is a screenshot of the finished product of Horiseon's webpage:
 [Image of finished website](Develop/assets/images/01-html-css-git-homework-demo.png)
 
-Also a URL of the webpage:
+URL of the deployed webpage: https://xjohnnyy.github.io/01module-challenge/
 
+URL of deployed HTML: http://127.0.0.1:5500/Develop/index.html
 
 
 ## Credits
-N/A
+Credit to Urban Octo Telegram for providing starter code for this challenge.
+Github profile: 
+https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
