@@ -11,7 +11,6 @@ Below is a screenshot of the finished product of Horiseon's webpage:
 
 URL of the deployed webpage: https://xjohnnyy.github.io/01module-challenge/
 
-URL of deployed HTML: http://127.0.0.1:5500/Develop/index.html
 
 
 ## Credits
