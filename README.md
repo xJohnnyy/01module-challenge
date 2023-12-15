@@ -10,6 +10,7 @@ Below is a screenshot of the finished product of Horiseon's webpage:
 [Image of finished website](assets/images/01-html-css-git-homework-demo.png)
 
 URL of the deployed webpage:
+https://xjohnnyy.github.io/01module-challenge/
 
 
 
