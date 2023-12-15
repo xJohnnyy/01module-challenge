@@ -11,6 +11,7 @@ Below is a screenshot of the finished product of Horiseon's webpage:
 
 Also a URL of the webpage:
 
+http://127.0.0.1:5500/Develop/index.html
 
 
 ## Credits
